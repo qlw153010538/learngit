@@ -11,4 +11,8 @@ new a linux.
 >>>>>>> 4968eb7... bug-001分支修复bug
 
 
+<<<<<<< HEAD
 new learngit/learngit2
+=======
+new learngit2
+>>>>>>> bed1ee188d57ebd1dc9e2ad0ed86a599f8b2eec8
